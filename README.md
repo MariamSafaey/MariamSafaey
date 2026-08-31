@@ -2,7 +2,7 @@
 
 Backend engineer with a strong foundation in **ASP.NET Core, C#, and SQL** — I like building APIs and web applications that stay reliable as they scale. Lately I've been extending that into Node.js and Express, and spending more time with cloud technologies and microservices architecture.
 
-📍 Assuit, Egypt
+📍 Cairo, Egypt
 
 ## 🛠️ Tech I work with
 
@@ -29,6 +29,6 @@ Bachelor's in Information Systems at National Assiut University (2022–2026), C
 
 ## 📫 Reach me
 
-- Portfolio: [mariamsafaey.github.io]([https://mariamsafaey.github.io/mariam-safaey.github.io/](https://mariamsafaey.github.io/))
+- Portfolio: [mariamsafaey.github.io](https://mariamsafaey.github.io/)
 - LinkedIn: [mariam-mohamed-safaey](https://www.linkedin.com/in/mariam-mohamad-safaey-12344a266)
 - Email: [mariammohamedsafaey@gmail.com](mailto:mariammohamedsafaey@gmail.com)
