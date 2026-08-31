@@ -29,6 +29,6 @@ Bachelor's in Information Systems at National Assiut University (2022–2026), C
 
 ## 📫 Reach me
 
-- Portfolio: [mariamsafaey.github.io](https://mariamsafaey.github.io/mariam-safaey.github.io/)
+- Portfolio: [mariamsafaey.github.io]([https://mariamsafaey.github.io/mariam-safaey.github.io/](https://mariamsafaey.github.io/))
 - LinkedIn: [mariam-mohamed-safaey](https://www.linkedin.com/in/mariam-mohamad-safaey-12344a266)
 - Email: [mariammohamedsafaey@gmail.com](mailto:mariammohamedsafaey@gmail.com)
